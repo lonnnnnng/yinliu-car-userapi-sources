@@ -1,0 +1,7 @@
+# 音流车机版默认播放解析源清单
+# 一行一个 JS 解析源 raw 地址；空行和 # 注释会被忽略。
+https://raw.githubusercontent.com/lonnnnnng/yinliu-car-userapi-sources/main/sources/huibq-latest.js
+https://raw.githubusercontent.com/lonnnnnng/yinliu-car-userapi-sources/main/sources/lx-latest.js
+https://raw.githubusercontent.com/lonnnnnng/yinliu-car-userapi-sources/main/sources/flower-latest.js
+https://raw.githubusercontent.com/lonnnnnng/yinliu-car-userapi-sources/main/sources/grass-latest.js
+https://raw.githubusercontent.com/lonnnnnng/yinliu-car-userapi-sources/main/sources/juhe-latest.js
